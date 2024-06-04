@@ -1,4 +1,4 @@
-Flappy Dino
+Dino_run
 
 This Python code implements a simple game inspired by the classic Flappy Bird.  The player controls a dinosaur that must navigate through an endless landscape avoiding obstacles like cacti and birds.
 Getting Started
@@ -47,5 +47,5 @@ Running the Game
 
 Bash
 
-python flappy_dino.py
+python dino_run.py
 
