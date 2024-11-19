@@ -1,3 +1,4 @@
+Personal Portfolio Site
 A personal portfolio site showcasing my projects and experiences, built with vanilla HTML, CSS, and JavaScript.
 
 About
@@ -18,4 +19,4 @@ Getting Started
 To view the site, simply open the index.html file in your web browser.
 
 Author
-Khwezi Shezi 
+Khwezi Shezi
